@@ -1,2 +1,2 @@
 # codewars
-completed tasks codewars
+Completed tasks codewars
